@@ -1,2 +1,2 @@
 # Iris_flower_classification-ML-
-This is a machine learning model to classify the Iris flowers to one of its species. The Iris flower dataset is a multivariate dataset which consists of Iris flowers classified into its various species. 
+The Iris flower dataset is a multivariate dataset which consists of Iris flowers classified on the basis of its various species. Many machine learning models like Logistic Regression, Decision Tree Classifier, K-Neighbour Classifier, Linear Discriminant Analysis (LDA), Support Vector Machine (SVM) were deployed on the dataset of Iris Flowers to get the best results. Finally, the SVM model was used to predict the species of Iris flower with an accuracy of 99.6%.  
